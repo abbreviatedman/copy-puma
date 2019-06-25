@@ -15,8 +15,8 @@ These are your potential sites to copy:
 
 ### Guidelines
 
+* This is a solo project. You've got this now!
 * You _must_ wireframe every single layout, AND you _must_ bring them to an instructor for approval before you can begin.
-* We'll be doing this in pairs today, but in one person's repo only. That's right: it's git collaboration time in America.
 * You _only_ have to copy the main page, but you _do_ have to copy past the opening viewport. In human speak: you need to copy all the way down to the bottom of the main page.
 * We'll be copying every single layout available in the target page. Pay attention to how many layouts were in the original!
 * Copy all text verbatim using copy-paste; if it's not selectable, take the equivalent amount of text from a lorem ipsum generator. Do _not_ screenshot it, as an image will respond differently to viewport changes than text will.
